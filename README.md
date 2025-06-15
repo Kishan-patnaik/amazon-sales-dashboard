@@ -16,9 +16,10 @@ This project presents a Power BI dashboard that analyzes Amazon's sales data fro
 - Sales comparison across regions and product categories
 - Visual trends for 2014 and 2017, side by side
 
-## Dashboard Preview
+## Project Report
 
-[Amazon Sales Analytical Dashboard (PDF)](Amazon%20Sales%20analytical%20Dashboard.pdf)
+You can view or download the full report here:  
+[Amazon Sales analytical Dashboard.pdf](Amazon%20Sales%20analytical%20Dashboard.pdf)
 
 ## Tools Used
 
